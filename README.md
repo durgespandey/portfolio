@@ -1,10 +1,10 @@
 # 🌐 Animated Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**.
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](myportfolio-umber-theta-98.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -52,5 +52,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by Durgesh Pandey.
+This project was created ❤️ by Durgesh Pandey.
 If you like it, feel free to ⭐ this repository and share!
